@@ -1,0 +1,11 @@
+.home{
+    background-color: #333;
+    height: 80vh;
+}
+.home h1{
+    margin: 0;
+    text-align: center;
+    color: #555;
+    font-size: 40px;
+    padding-top: 10rem;
+}
